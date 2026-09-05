@@ -23,7 +23,7 @@ For example, the CSV titled “Short_GRU_Exp_LDD_Results.csv” contains the tab
 
 The CSV columns are as follows: 
 * “Stock” – denotes the stock symbol (^GSPTSE, SLV, etc.)
-* “Type” – denotes the Machine Learning model used (LSTM, GRU, DNN, and Transformer)
+* “Type” – denotes the Machine Learning model used (LSTM, GRU, ANN, and Transformer)
 * “Start Date” – denotes the starting date of the time interval used
 * “End Date” – denotes the ending date of the time interval used
 * “Seed” – denotes the random seed value used for model training
