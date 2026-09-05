@@ -2,7 +2,7 @@
 In this folder, we have collected the statistical performance results for stock prediction. 
 The code used for analyzing the performance data is given in the “Stock_Prediction_Performance_Analysis.ipynb” Python file. 
 
-Each of the four Machine Learning methods (LSTM, GRU, DNN, and Transformers) have their own subfolders for the analysis results on short- and long-term stock prediction. 
+Each of the four Machine Learning methods (LSTM, GRU, ANN, and Transformers) have their own subfolders for the analysis results on short- and long-term stock prediction. 
 In each subfolder, we have collected:
 * Counts for how many times each method yielded the lowest error measures for each of the 40 stock and time interval combinations (recorded in the “Performance_Counts” CSV files)
 * The median performance ratios versus no denoising (Orig) and P-FTD (recorded in the “Orig_Comparison_Ratio” and “Padding_Comparison_Ratio” CSV files, respectively)
