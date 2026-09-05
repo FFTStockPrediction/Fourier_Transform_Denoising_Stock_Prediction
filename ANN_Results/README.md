@@ -1,8 +1,8 @@
 # Overview
 
-In this folder, we have collected the performance data for the DNN model using each of the five denoising techniques. 
+In this folder, we have collected the performance data for the ANN model using each of the five denoising techniques. 
 The CSV files beginning with “Short_” denote the performance on short-term stock prediction, while the CSV files beginning with “Long_” denote the performance on long-term stock prediction. 
-The Python file “Stock_DNN_MultiStocks.ipynb” contains the DNN model, denoising techniques, and method to collect performance data. 
+The Python file “Stock_ANN_MultiStocks.ipynb” contains the ANN model, denoising techniques, and method to collect performance data. 
 
 
 
@@ -16,14 +16,14 @@ We applied five denoising techniques (including no denoising) for the data. Thes
 * Exponential Variable Denoising (Exp-VD)
 
 Each CSV file contains the performance data collected for either short- or long-term prediction using each of these denoising techniques.
-For example, the CSV titled “Short_DNN_Exp_LDD_Results.csv” contains the tabular performance data for short-term prediction using Exp-LDD denoising. 
+For example, the CSV titled “Short_ANN_Exp_LDD_Results.csv” contains the tabular performance data for short-term prediction using Exp-LDD denoising. 
 
 
 ## CSV Column Labels
 
 The CSV columns are as follows: 
 * “Stock” – denotes the stock symbol (^GSPTSE, SLV, etc.)
-* “Type” – denotes the Machine Learning model used (LSTM, GRU, DNN, and Transformer)
+* “Type” – denotes the Machine Learning model used (LSTM, GRU, ANN, and Transformer)
 * “Start Date” – denotes the starting date of the time interval used
 * “End Date” – denotes the ending date of the time interval used
 * “Seed” – denotes the random seed value used for model training
