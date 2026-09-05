@@ -86,10 +86,10 @@ The four models used in this project are:
 
 * Long Short-Term Memory (LSTM)
 * Gated Recurrent Units (GRU)
-* Dense-layer Neural Networks (DNN)
+* Artificial Neural Networks (ANN)
 * Transformers
 
-The tabular performance data for each of these four models is given in the "LSTM_Results", "GRU_Results", "DNN_Results", and "Transformer_Results" folders. 
+The tabular performance data for each of these four models is given in the "LSTM_Results", "GRU_Results", "ANN_Results", and "Transformer_Results" folders. 
 
 
 ## Performance Analysis
