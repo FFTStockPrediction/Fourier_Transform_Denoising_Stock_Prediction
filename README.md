@@ -101,7 +101,7 @@ The results of our analysis are given in the "Performance_Analysis" folder.
 
 ## Disclaimer
 
-The content of this work is for informational and research purposes, and does not constitute investment or financial advice of any form. Investing is inherently risky, and the authors of this work bear no responsibility or liability for any financial or investment decisions made using the information provided. 
+The content of this work is for informational and research purposes only, and does not constitute investment or financial advice of any form. Investing is inherently risky, and the authors of this work bear no responsibility or liability for any financial or investment decisions made using the information provided. 
 
 
 ## References
